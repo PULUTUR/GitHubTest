@@ -1,6 +1,1 @@
-<?php
-
-$art = "(╯ ͠° ͟ʖ ͡°)╯┻━┻";
-echo "Mooi man";
-
-echo $art;
+bwirw3e4h897w3hjtg8i9arhguioerhbntg
